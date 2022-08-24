@@ -7,3 +7,7 @@
       - Code Duplication
       - Lack of Test Coverage
       - Excess Complexity 
+
+## SonarQube Workflow:
+      ![Sonar workflow](https://docs.sonarqube.org/9.6/images/SQ-instance-components.png)
+      
