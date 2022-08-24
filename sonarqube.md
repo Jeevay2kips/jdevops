@@ -9,5 +9,11 @@
       - Excess Complexity 
 
 ## SonarQube Workflow:
-      ![Sonar workflow](https://docs.sonarqube.org/9.6/images/SQ-instance-components.png)
+      * ####SonarQube Server 
+        - Webserver
+        - Databases
+        - Search Server
+      * ####SonarQube Scanner
+        - Source Code
+ 
       
